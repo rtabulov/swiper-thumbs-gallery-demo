@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "swiper"
+  ],
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "name": "swiper-thumbs-gallery-vue",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.7.0",
+    "@vue/compiler-sfc": "^3.2.0",
+    "@vitejs/plugin-vue": "^2.1.0"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "swiper": "^8.0.0"
+  }
+}
